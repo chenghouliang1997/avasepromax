@@ -1,0 +1,12 @@
+0:0:0:0:0:0:0:1 - - [22/Sep/2022:20:45:27 +0800] "GET /vue-demo HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [22/Sep/2022:20:45:27 +0800] "GET /vue-demo/ HTTP/1.1" 200 52 http-bio-8080-exec-3 25
+0:0:0:0:0:0:0:1 - - [22/Sep/2022:20:45:27 +0800] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-4 0
+0:0:0:0:0:0:0:1 - - [22/Sep/2022:20:50:08 +0800] "GET / HTTP/1.1" 404 - http-bio-8080-exec-6 0
+0:0:0:0:0:0:0:1 - - [22/Sep/2022:20:50:13 +0800] "GET /vue-demo HTTP/1.1" 302 - http-bio-8080-exec-8 0
+0:0:0:0:0:0:0:1 - - [22/Sep/2022:20:50:13 +0800] "GET /vue-demo/ HTTP/1.1" 200 52 http-bio-8080-exec-9 3
+0:0:0:0:0:0:0:1 - - [22/Sep/2022:20:50:17 +0800] "GET /vue-demo/element-demo.html HTTP/1.1" 304 - http-bio-8080-exec-10 4
+0:0:0:0:0:0:0:1 - - [22/Sep/2022:20:50:17 +0800] "GET /vue-demo/js/vue.js HTTP/1.1" 304 - http-bio-8080-exec-10 4
+0:0:0:0:0:0:0:1 - - [22/Sep/2022:20:50:18 +0800] "GET /vue-demo/brand/selectAll HTTP/1.1" 200 1647 http-bio-8080-exec-10 373
+0:0:0:0:0:0:0:1 - - [22/Sep/2022:22:25:46 +0800] "GET /vue-demo HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [22/Sep/2022:22:25:46 +0800] "GET /vue-demo/ HTTP/1.1" 200 52 http-bio-8080-exec-3 56
+0:0:0:0:0:0:0:1 - - [22/Sep/2022:22:25:52 +0800] "GET /vue-demo/brand/selectAll HTTP/1.1" 200 1647 http-bio-8080-exec-4 457
